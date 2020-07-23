@@ -1,6 +1,6 @@
 # FTTSApi
 
-## A text to speech app that converts the writen words into speech. 
+## A text to speech app that converts the written words into speech. 
 
 
 * There are two ciphers that the user might use to encode the writen text
