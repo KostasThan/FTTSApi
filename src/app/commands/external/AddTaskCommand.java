@@ -4,7 +4,7 @@ import java.util.function.Supplier;
 
 import app.model.myenums.UserCommandsEnums;
 import app.model.usermacro.UserMacroHandler;
-
+   
 /**
  * This class is responsible for adding a {@link MacroCommand},representing a
  * sequence of actions, in {@link UserMacroHandler}.
