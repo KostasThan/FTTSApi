@@ -86,7 +86,7 @@ class DocumentSpeakMethodsTest {
 			//capture the encoding method
 			EncodeMethod encodeMethod = EncodeFactory.getEncodeMethod(encodeEnum);
 			
-			//set it to the document encode methso
+			//set it to the document encode method
 			doc.setEncode(encodeMethod);
 
 			//speak it
