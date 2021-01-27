@@ -10,5 +10,5 @@
 
 ## NOTE:
 To build the project make sure to include the libraries
-on the build path that are located under the folder
-src/resources/libs.
+in the build path. The said libraries are located under
+the folder src/resources/libs.
