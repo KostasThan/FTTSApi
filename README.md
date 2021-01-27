@@ -8,7 +8,7 @@
 * Option to record buttons being pressed and create a macro from those buttons
 * Project report included(Greek)
 
-##NOTE:
+## NOTE:
 To build the project make sure to include the libraries
 on the build path that are located under the folder
 src/resources/libs.
